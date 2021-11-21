@@ -1,0 +1,54 @@
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Debug\PracticaObligatoria.exe.config
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Debug\PracticaObligatoria.exe
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Debug\PracticaObligatoria.pdb
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\Cuadro.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\Extras.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\MainWindow.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\App.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria_MarkupCompile.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria_MarkupCompile.lref
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\Cuadro.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\Extras.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\MainWindow.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.g.resources
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.Properties.Resources.resources
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.GenerateResource.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.exe
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.pdb
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.AssemblyReference.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\CuadroMod.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Debug\CuadroMod.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\PracticaObligatoria.exe.config
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.dll
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.xml
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\Cuadro.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\CuadroMod.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\Extras.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\MainWindow.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\VentanaGraficos.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\App.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria_MarkupCompile.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria_MarkupCompile.lref
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\Cuadro.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\CuadroMod.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\Extras.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\MainWindow.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\VentanaGraficos.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.g.resources
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.Properties.Resources.resources
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.GenerateResource.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.CoreCompileInputs.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.CopyComplete
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\PracticaObligatoria.csproj.AssemblyReference.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Debug\App.baml

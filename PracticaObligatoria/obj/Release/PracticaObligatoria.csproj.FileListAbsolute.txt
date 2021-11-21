@@ -1,0 +1,86 @@
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.exe.config
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.exe
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.pdb
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.AssemblyReference.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Cuadro.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\CuadroMod.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Extras.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\MainWindow.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\App.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.lref
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Cuadro.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\CuadroMod.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Extras.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\MainWindow.baml
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.g.resources
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.Properties.Resources.resources
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.GenerateResource.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.exe
+G:\Mi unidad\Prácticas\Tercer curso\Interfaces Gráficas\Prácticas\Práctica Obligatoria\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\PracticaObligatoria.exe.config
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.dll
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.Wpf.dll
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.xml
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\bin\Release\LiveCharts.Wpf.xml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.AssemblyReference.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\Cuadro.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\CuadroMod.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\Extras.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\MainWindow.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\VentanaGraficos.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\App.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.lref
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\Cuadro.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\CuadroMod.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\Extras.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\MainWindow.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\VentanaGraficos.baml
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.g.resources
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.Properties.Resources.resources
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.GenerateResource.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.CoreCompileInputs.cache
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.CopyComplete
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoria\obj\Release\App.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.exe.config
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\PracticaObligatoria.pdb
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.dll
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.Wpf.dll
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.pdb
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.xml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\bin\Release\LiveCharts.Wpf.xml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.AssemblyReference.cache
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Cuadro.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\CuadroMod.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Extras.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\MainWindow.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\VentanaGraficos.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\App.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.cache
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria_MarkupCompile.lref
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\App.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Cuadro.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\CuadroMod.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\Extras.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\MainWindow.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\VentanaGraficos.baml
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.g.resources
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.Properties.Resources.resources
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.GenerateResource.cache
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.CoreCompileInputs.cache
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.csproj.CopyComplete
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.exe
+C:\Users\jujol\Desktop\PracticaObligatoriaInterfaces\PracticaObligatoria\obj\Release\PracticaObligatoria.pdb

@@ -1,0 +1,112 @@
+﻿<Window x:Class="PracticaObligatoria.Cuadro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:custom="clr-namespace:PracticaObligatoria"
+        xmlns:local="clr-namespace:PracticaObligatoria"
+        mc:Ignorable="d"
+        Title="Registro" Height="800" Width="500" Closing="Window_Closing" ResizeMode="NoResize" FontFamily="Sitka Text" FontSize="15" Background="#dfe3ee">
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Background="#8b9dc3">
+            <MenuItem Header="Herramientas" Name="MiddleMenu">
+                <MenuItem Name="Export_bt" Header="Exportar" Click="Export_bt_Click" Background="#f7f7f7"/>
+                <MenuItem Name="Import_bt" Header="Importar" Click="Import_bt_Click" Background="#f7f7f7"/>
+            </MenuItem>
+        </Menu>
+        <TabControl x:Name="Menu_tab" Background="#dfe3ee">
+
+            <TabItem Name="lista" Header="Muestra de datos" Cursor="Hand" Background="#f7f7f7">
+                <Grid Cursor="Arrow">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="101*"/>
+                        <ColumnDefinition Width="143*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button Name="Eliminar_bt" Content="Eliminar" Grid.Row="0" Margin="147,8,20,319" IsEnabled="False" Click="Eliminar_bt_Click" Background="#f7f7f7" Grid.Column="1"/>
+                    <Button Name="Editar_bt" Content="Editar" Grid.Row="0" Margin="20,8,152,319" IsEnabled="False" Click="Editar_bt_Click" Background="#f7f7f7" Grid.Column="1"/>
+
+                    <ListView x:Name="Registro" Grid.Row="0" BorderBrush="#191919" BorderThickness="2" Margin="20,60,20,20" SelectionChanged="Registro_SelectionChanged" SelectionMode="Single" Background="#f7f7f7" Grid.ColumnSpan="2" >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Date" Width="120"  DisplayMemberBinding="{Binding Fecha}"/>
+                                <GridViewColumn Header="Total de calorias" DisplayMemberBinding="{Binding Cal_total}" Width="200"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <ListView x:Name="Diario" Grid.Row="1" BorderBrush="#191919" BorderThickness="2" Margin="20,30,20,20" SelectionMode="Single" Background="#f7f7f7" Grid.ColumnSpan="2">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Comida" Width="120" DisplayMemberBinding="{Binding Comida}"/>
+                                <GridViewColumn Header="Calorías por comida" DisplayMemberBinding="{Binding Cal_Comida}" Width="200"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+
+            <TabItem Name="datos" Header="Entrada de datos" Cursor="Hand" Background="#f7f7f7">
+                <Grid Cursor="Arrow">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.5*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Viewbox Grid.Row="0" Margin="10,10,-2,42">
+                        <Calendar Name="Calendario" DisplayMode="Year" SelectedDatesChanged="Calendar_SelectedDatesChanged" Height="169" BorderThickness="2" Width="192">
+                            <Calendar.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                    <GradientStop Color="#3b5998" Offset="0.2" />
+                                    <GradientStop Color="#8b9dc3" Offset="0.4" />
+                                    <GradientStop Color="#dfe3ee" Offset="0.6" />
+                                    <GradientStop Color="#f7f7f7" Offset="0.8" />
+                                    <GradientStop Color="#ffffff" Offset="1.0" />
+                                </LinearGradientBrush>
+                            </Calendar.Background>
+                            <Calendar.BorderBrush>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                    <GradientStop Color=" #000000" Offset="0.2"/>
+                                    <GradientStop Color="#3b5998" Offset="0.5" />
+                                    <GradientStop Color="#dfe3ee" Offset="0.7"/>
+                                    <GradientStop Color=" #000000" Offset="1.1"/>
+                                </LinearGradientBrush>
+                            </Calendar.BorderBrush>
+                        </Calendar>
+                    </Viewbox>
+                    
+                    <Label Name="Date_Display" Content="Fecha seleccionada: " Grid.Row="0" Margin="49,210,270,474" Grid.RowSpan="2" />
+                    <TextBlock Name="Selected_Date" Grid.Row="0" Margin="204,212,140,2"  Background="#f7f7f7" TextAlignment="Center" Width="150" Height="25"/>
+
+                    <Label Name="Desayuno" Content="Desayuno" Grid.Row="1" Margin="11,20,378,424"/>
+                    <custom:NumericTextBox x:Name="Box_Des" Grid.Row="1"  Margin="96,23,295,436"  Background="#f7f7f7" TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Label Name="Almuerzo" Content="Almuerzo" Grid.Row="1" Margin="243,18,148,424"/>
+                    <custom:NumericTextBox x:Name="Box_Alm" Grid.Row="1"  Margin="340,21,50,439"  Background="#f7f7f7"  TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Label Name="Comida" Content="Comida" Grid.Row="1" Margin="11,108,396,342" RenderTransformOrigin="0.469,0.258"/>
+                    <custom:NumericTextBox x:Name="Box_Com" Grid.Row="1"  Margin="96,111,295,349"  Background="#f7f7f7"  TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Label Name="Merienda" Content="Merienda" Grid.Row="1" Margin="243,110,131,326"/>
+                    <custom:NumericTextBox x:Name="Box_Mer" Grid.Row="1"  Margin="340,110,50,349"  Background="#f7f7f7"  TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Label Name="Cena" Content="Cena" Grid.Row="1" Margin="243,212,165,232"/>
+                    <custom:NumericTextBox x:Name="Box_Cena" Grid.Row="1"  Margin="340,212,50,247"  Background="#f7f7f7"  TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Label Name="Otros" Content="Otros" Grid.Row="1" Margin="11,215,385,220"/>
+                    <custom:NumericTextBox x:Name="Box_Otros" Grid.Row="1"  Margin="96,216,295,243"  Background="#f7f7f7"  TextAlignment="Center" Width="100" Height="25"/>
+
+                    <Button Name="bt_add" Content="Añadir Entrada" Grid.Row="1" Margin="129,321,138,121" Click="bt_add_Click" Background="#f7f7f7"/>
+                    <TextBlock Name="Output" Grid.Row="1" Margin="0,398,1,44" HorizontalAlignment="Center" Width="487" TextAlignment="Center"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</Window>

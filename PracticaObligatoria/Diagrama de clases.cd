@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PracticaObligatoria.Data">
+    <Position X="4" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAAUAAAAEAJAAAAAAAgAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="comidas" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.Comidas">
+    <Position X="8.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAgACAAAAAgAAAIAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.Cuadro">
+    <Position X="8.75" Y="4.75" Width="2.5" />
+    <AssociationLine Name="MyData" Type="PracticaObligatoria.Data" ManuallyRouted="true">
+      <Path>
+        <Point X="10.781" Y="4.75" />
+        <Point X="10.781" Y="0.363" />
+        <Point X="7.636" Y="0.363" />
+        <Point X="7.636" Y="0.594" />
+        <Point X="7.5" Y="0.594" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.468" Y="0.336" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AiUAAgAAAEAAAIJAARAAAgAAAAAADAACAAAKAAQBABA=</HashCode>
+      <FileName>Cuadro.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="modificador" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="MyData" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.CuadroMod">
+    <Position X="12" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAAAAEAgAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>CuadroMod.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Comidas" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.Extras">
+    <Position X="14.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAABAAAAIAAAAAAAAABAAAACAAACA=</HashCode>
+      <FileName>Extras.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.MainWindow">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <AssociationLine Name="modelo" Type="PracticaObligatoria.Model">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="1.016" Y="0.164" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="cuadro" Type="PracticaObligatoria.Cuadro">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.695" Y="-0.275" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CBQAAQAgEATcAAAgAJgAAgAAQAAAAAAAAAIAAAAYAQA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="modelo" />
+      <Field Name="vg" />
+      <Field Name="extras" />
+      <Field Name="cuadro" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.Model">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAAEACAAoAIAAAAAQAgAEAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="comidas" />
+      <Property Name="MyData" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PracticaObligatoria.VentanaGraficos">
+    <Position X="5.25" Y="5.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="PracticaObligatoria.VentanaGraficos.Formato">
+        <TypeIdentifier>
+          <NewMemberFileName>VentanaGraficos.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAACYAgAQAJBAAAQABAAAQAAEAAAAgAAAJAI=</HashCode>
+      <FileName>VentanaGraficos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Datos" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
